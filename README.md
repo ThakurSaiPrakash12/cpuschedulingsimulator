@@ -21,7 +21,7 @@ An interactive web-based CPU Scheduling Algorithm Simulator that helps visualize
 
 ## Live Demo
 
-Visit the [live demo](https://[your-github-username].github.io/cpu-scheduling-simulator/) to try it out!
+Visit the [live demo](https://thakursaiprakash12.github.io/cpuschedulingsimulator/) to try it out!
 
 ## Usage
 
